@@ -7,4 +7,4 @@
     <bean id="card" class="com.arun.CardPayment" primary="true"/>
     <bean id="service" class="com.arun.PaymentService" autowire="byType">
     </bean>
-</beans>
+</beans> 
